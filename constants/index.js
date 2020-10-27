@@ -8,8 +8,8 @@
 //     ? "http://localhost:5000/api/"
 //     : "http://159.89.89.127/api/";
 
-const host = 'http://159.89.89.127/api/';
-const baseUrl= 'http://159.89.89.127/api/'
+const host = 'https://cityevents.ga/api/';
+const baseUrl= 'https://cityevents.ga/api/'
 const recaptchaKey = "6LdM-dYZAAAAAJ8W7mLb8l-AJ4UGWHjUUQbD1he2"; //shouldn't be here
 const recaptchaSecret = "6LcZFewUAAAAAEMwQ7Q4eCOm5L2NyFsG-ij2CR3w"; //this too
 const site_key = "6LeT9dYZAAAAAEgB0sMkx_-d07xf3NZ4mpvpI50T";
